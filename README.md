@@ -1,6 +1,7 @@
 # GRIP-The-Sparks-Foundation-MAR2021
  Data Science & Business Analytics tasks performed under the TSP internship.
- Task 1:
+
+Task 1:
 Prediction using Supervised ML
 
 ● Predict the percentage of an student based on the no. of study hours.
